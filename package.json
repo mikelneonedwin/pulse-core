@@ -1,0 +1,13 @@
+{
+  "name": "pulse-core",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start:server": "bun run src/server/index.ts",
+    "demo": "bun run demo/demo-app.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^22.0.0"
+  }
+}
